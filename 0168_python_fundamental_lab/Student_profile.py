@@ -1,0 +1,13 @@
+Student_Name =input("Enter Your Name: ")
+Student_Age=int(input("Enter your Age: "))
+Student_Email=input("Enter your Email: ")
+Course_Name=input("Enter your Course Name: ")
+Course_Fee=float(input("Enter your Course Fee: "))
+
+print("_________________________Student Profile________________________________")
+print()
+print("Student Name: "+Student_Name)
+print("Student Age: "+Student_Age)
+print("Student Email: "+Student_Email)
+print("Course Name: "+Course_Name)
+print("Course Fee: "+Course_Fee)
