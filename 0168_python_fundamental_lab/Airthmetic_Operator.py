@@ -8,10 +8,10 @@ FloorDivision=Num1//Num2
 Modulus=Num1%Num2
 Exponentiation=Num1**Num2
 print()
-print("Addition : ",Addition)
-print("Subtraction : ",Subtraction)
-print("Division : ",Division)
-print("Floor Division : ",FloorDivision)
-print("Modulus : ",Modulus)
-print("Exponentiation : ",Exponentiation)
+print("Addition       :",Addition)
+print("Subtraction    :",Subtraction)
+print("Division       :",Division)
+print("Floor Division :",FloorDivision)
+print("Modulus        :",Modulus)
+print("Exponentiation :",Exponentiation)
 
