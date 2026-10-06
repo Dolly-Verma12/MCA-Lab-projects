@@ -1,6 +1,10 @@
 Num=int(input("Enter Number: "))
-def greet(Num):
-    while Num>1:
-        greet(Num)*greet(Num-1)
+def factorial(Num):
+     fact=1
+     for i in range(1,Num+1):
+          fact*=i
+          
+     return fact  
+
     
-print(greet(Num))
+print(factorial(Num))
